@@ -13,7 +13,7 @@ header-includes: |
      \usefonttheme[onlymath]{serif}
 ---
 
-# PL-Theorem-Prover
+# Computational-Logic-Theorem-Prover
 A program that is able to read propositional logic sentences from a text file, convert the sentences to a conjunctive normal form and perform refutation to prove or disprove goal sentences.
 
 ## Running Instructions
